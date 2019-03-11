@@ -1,0 +1,14 @@
+.item-add-form {
+    margin-top: 10px;
+}
+
+.item-add-form input {
+    width: 75%;
+    margin-right: 8px;
+}
+
+.item-add-form input::placeholder {
+    color: #b8b8b8;
+    font-weight: lighter;
+    font-size: 12px;
+}
